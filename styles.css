@@ -1,0 +1,32 @@
+#slider {
+    margin-top: 50px;
+  }
+  
+  #products {
+    margin-top: 50px;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+  }
+  
+  footer ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Adjusting image size */
+  .card-img-top {
+    height: 200px; /* Adjust as needed */
+    object-fit: cover; /* Ensure images fill their container */
+  }
+  
+  /* Adjustable background color */
+  body {
+    background-color: #f0f0f0; /* Change as needed */
+  }
